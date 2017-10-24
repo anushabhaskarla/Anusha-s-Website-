@@ -1,0 +1,238 @@
+html {
+    
+}
+
+body {
+    background: #e4e4e4;
+}
+
+
+
+h2 {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h3{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+p {
+   font-family: 'Josefin Sans', sans-serif;
+    font-size: 20;
+}
+
+a{
+    text-decoration: none;
+    color:#333136;
+}
+
+a:hover {
+    color: #ddb5b5;
+}
+
+.featured-posts{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: -40px;
+    margin-bottom: 60px;
+}
+
+.featured-post-links {
+    padding-bottom: 20px;
+}
+.featured-post-links a:hover {
+    opacity: 0.5;
+}
+.writing-intro{
+    padding: 40px;
+    margin-bottom: -30px;
+    margin-top: -40px;
+}
+
+
+
+.blog-link a:hover {
+   color: #ddb5b5;
+    
+    
+}
+
+.image-link {
+    text-decoration: none;
+}
+
+.blog-link {
+    text-decoration: none;
+    padding: 10px;
+}
+
+
+.intro {
+    margin-top: 30px;
+    margin-left: -5px;
+
+}
+
+.header {
+    margin-top:20px;
+    margin-bottom: 40px;
+}
+
+.header a:hover {
+    opacity:0.5;
+}
+
+
+.follow {
+    padding-bottom: 25px;
+    margin-left: 20px;
+    position:relative;
+    display: inline-block;
+}
+
+.follow a:hover {
+opacity:0.5;
+}
+
+
+.bio {
+    margin-right: 40px;
+}
+.bioimage {
+
+    float: left;
+    margin-left: 40px;
+    margin-right: 40px;
+    vertical-align: top;
+    
+}
+
+.dreamon {
+    margin-top: 50px;
+    padding-bottom: 40px;
+}
+
+.contactintro {
+    padding: 0px 45px 50px 45px;
+}
+
+.container {
+    width: auto;
+}
+
+.travelgram a:hover {
+opacity:0.5;
+}
+
+.personalgram a:hover {
+opacity:0.5;
+}
+
+.linkedin a:hover {
+opacity:0.5;
+}
+
+.mail a:hover {
+opacity:0.5;
+}
+
+.travelgram{
+    float:left;
+     padding: 40px 75px 0px 70px;
+}
+
+.personalgram{
+    float: left;
+    padding: 40px 70px 0px 70px;
+}
+
+.linkedin{
+    float: left;
+     padding: 40px 70px 0px 70px;
+}
+
+.mail{
+    float: left;
+    padding: 40px 85px 0px 70px;
+
+}
+
+.topnav {
+    background-color: #e4e4e4;
+    padding: 3px;
+}
+
+.topnav a {
+    display: inline;
+    color: #333136;
+    text-decoration: none;
+    padding: 10px 90px;
+    font-size: 13px;
+    font-family: "Century Gothic", sans-serif;
+}
+
+.topnav a:hover {
+    background-color: #ddb5b5;
+    color: #333136;
+}
+
+/* Dropdown Button */
+.dropbtn {
+    background-color: #e4e4e4;
+    color: #333136;
+    padding: 10px 90px;
+    font-size: 13px;
+    font-family: "Century Gothic", sans-serif;
+    border: none;
+    cursor: pointer;
+    position: relative;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #ddb5b5;
+    min-width: 100%;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    background-color: #f1dfdd;
+    color: #333136;
+    font-size: 12px;
+    font-family: "Century Gothic", sans-serif;
+    padding: 10px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddb5b5}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #ddb5b5;
+    color: #333136;
+}
+        
