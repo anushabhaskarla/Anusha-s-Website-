@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="1990 3774 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Web_1920_5);
+      }
+
+      .cls-2, .cls-6, .cls-7, .cls-9 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #333136;
+        stroke-width: 5px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        stroke: #000;
+      }
+
+      .cls-3, .cls-6 {
+        stroke-width: 3px;
+      }
+
+      .cls-4 {
+        fill: #333136;
+        font-size: 47px;
+        font-family: JosefinSans, Josefin Sans;
+      }
+
+      .cls-5 {
+        fill: #ddb5b5;
+      }
+
+      .cls-6 {
+        stroke: #050505;
+      }
+
+      .cls-7 {
+        stroke: #ddb5b5;
+        stroke-width: 4px;
+      }
+
+      .cls-8 {
+        stroke: none;
+      }
+
+      .cls-10 {
+        fill: #f0f0f0;
+      }
+    </style>
+    <clipPath id="clip-Web_1920_5">
+      <rect x="1990" y="3774" width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_5" data-name="Web 1920 – 5" class="cls-1">
+    <rect class="cls-10" x="1990" y="3774" width="1920" height="1080"/>
+    <line id="Line_34" data-name="Line 34" class="cls-2" y2="4418" transform="translate(2038.5 2105.5)"/>
+    <g id="Group_20" data-name="Group 20" transform="translate(1075 3803)">
+      <g id="Rectangle_1" data-name="Rectangle 1" class="cls-3" transform="translate(1014 35)">
+        <rect class="cls-8" width="475" height="74"/>
+        <rect class="cls-9" x="1.5" y="1.5" width="472" height="71"/>
+      </g>
+      <text id="SKILLS_INTERESTS" data-name="SKILLS + INTERESTS" class="cls-4" transform="translate(1035 88.695)"><tspan x="0" y="0">SKILLS + INTERESTS</tspan></text>
+    </g>
+    <circle id="Ellipse_64" data-name="Ellipse 64" class="cls-5" cx="13.5" cy="13.5" r="13.5" transform="translate(2022 3862)"/>
+    <line id="Line_35" data-name="Line 35" class="cls-6" x2="41" transform="translate(2049.5 3875.5)"/>
+    <line id="Line_36" data-name="Line 36" class="cls-7" x2="209" transform="translate(2097.5 3984.5)"/>
+    <circle id="Ellipse_65" data-name="Ellipse 65" class="cls-5" cx="6" cy="6" r="6" transform="translate(2131 4022)"/>
+    <circle id="Ellipse_66" data-name="Ellipse 66" class="cls-5" cx="6" cy="6" r="6" transform="translate(2131 4062)"/>
+    <circle id="Ellipse_67" data-name="Ellipse 67" class="cls-5" cx="6" cy="6" r="6" transform="translate(2131 4102)"/>
+    <circle id="Ellipse_68" data-name="Ellipse 68" class="cls-5" cx="6" cy="6" r="6" transform="translate(2137 4408)"/>
+    <circle id="Ellipse_69" data-name="Ellipse 69" class="cls-5" cx="6" cy="6" r="6" transform="translate(2137 4448)"/>
+    <circle id="Ellipse_70" data-name="Ellipse 70" class="cls-5" cx="6" cy="6" r="6" transform="translate(2137 4488)"/>
+    <line id="Line_37" data-name="Line 37" class="cls-7" x2="120" transform="translate(2103.5 4197.5)"/>
+    <circle id="Ellipse_71" data-name="Ellipse 71" class="cls-5" cx="6" cy="6" r="6" transform="translate(2137 4235)"/>
+    <circle id="Ellipse_72" data-name="Ellipse 72" class="cls-5" cx="6" cy="6" r="6" transform="translate(2137 4275)"/>
+    <line id="Line_38" data-name="Line 38" class="cls-7" y1="4" x2="186" transform="translate(2103.5 4366.5)"/>
+  </g>
+</svg>
